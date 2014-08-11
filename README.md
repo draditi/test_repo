@@ -1,4 +1,4 @@
 test_repo
 =========
 
-demo
+demosnstration given by Kevin, the TA.
