@@ -1,4 +1,4 @@
 test_repo
 =========
 
-demosnstration given by Kevin, the TA.
+demonstration given by Kevin, the TA.
